@@ -120,7 +120,7 @@ header{
 .home{
     margin-top: 5rem;
     background-size: cover;
-    background: url(/assets/img/home.jpg) no-repeat center;
+    background: url(../img/home.jpg) no-repeat center;
     height: 440px;
     border-radius: 1.5rem;
     display: flex;
