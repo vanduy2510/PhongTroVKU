@@ -195,6 +195,11 @@ header{
 .sales .box p{
     font-size: 0.938rem;
 }
+.sales a{
+    margin: 0 auto;
+    display: flex;
+  
+}
 /*Properties*/
 .heading {
     text-align: center;
